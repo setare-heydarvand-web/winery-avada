@@ -7,7 +7,8 @@ https://setare-heydarvand-web.github.io/winery-avada/
 ## 📸 Preview
 
 <p align="center">
-  <img width="1899" height="1077" alt="Screenshot 2026-07-14 213342" src="https://github.com/user-attachments/assets/9f4ef433-948c-40eb-8196-69b350bb00bb" />
+   <img width="1899" height="1076" alt="Screenshot 2026-07-14 213915" src="https://github.com/user-attachments/assets/38fcda26-80b7-455a-8ed1-dba7a9c92ee1" />
+
 </p>
 
 ## ✨ Features
