@@ -2,39 +2,35 @@
 
 A modern front-end recreation of the **Avada Winery** website, built with **HTML** and **CSS**.
 
-This project focuses on creating a premium user experience through elegant typography, clean layouts, smooth hover effects, and a responsive visual design inspired by the original website.
+## 📸 Preview
+
+<p align="center">
+  <img width="1899" height="1077" alt="Screenshot 2026-07-14 213342" src="https://github.com/user-attachments/assets/9f4ef433-948c-40eb-8196-69b350bb00bb" />
+</p>
 
 ## ✨ Features
 
 - 🍷 Modern Winery Landing Page
 - 🎨 Elegant & Minimal UI
-- 🖼️ Full-Screen Hero Section
-- 📱 Responsive Layout
+- 📱 Responsive Design
 - ✨ Smooth Hover Effects
-- 🔤 Beautiful Typography
-- 🧩 Well-Organized HTML & CSS Structure
+- 🔤 Elegant Typography
+- 🧩 Clean HTML & CSS Structure
 
-## 🛠️ Built With
+## 🛠️ Technologies
 
 - HTML5
 - CSS3
 - Google Fonts
 - Bootstrap Icons
 
-## 📸 Preview
-
-<p align="center">
-  <img src="./images/preview.png" alt="Avada Winery Preview" width="100%">
-</p>
-
-> Replace `preview.png` with a screenshot of your project.
-
-## 📂 Project Structure
+## 📂 Folder Structure
 
 ```
 Avada-Winery/
 │
 ├── images/
+│   └── avada-winery.png
 ├── index.html
 ├── style.css
 └── README.md
@@ -42,15 +38,7 @@ Avada-Winery/
 
 ## 🚀 Live Demo
 
-🔗 Add your GitHub Pages link here
-
-Example:
-
-https://yourusername.github.io/avada-winery/
-
-## 💡 Inspiration
-
-Inspired by the beautiful design of the **Avada Winery** website.
+🔗 https://your-github-pages-link
 
 ## 👩‍💻 Author
 
